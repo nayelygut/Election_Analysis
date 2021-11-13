@@ -1,8 +1,7 @@
 # Election_Analysis
-Using python for election analysis
 
 ## Overview of Election Audit
-Looked at a file that listed all candidate votes by county. The goal was to use python code to have a summary of election results. 
+The task was to analyze the election results and create a summary using python. A csv file that listed all candidate votes by county was provided. Once the code was completed, we were able to get a text file with the election results. 
 
 ## Election-Audit Results
 - 369,711 votes were cast in this congressional election.
