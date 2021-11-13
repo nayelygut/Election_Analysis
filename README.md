@@ -5,11 +5,11 @@ Using python for election analysis
 Looked at a file that listed all candidate votes by county. The goal was to use python code to have a summary of election results. 
 
 ## Election-Audit Results
--369,711 votes were cast in this congressional election.
--Breakdown of votes per county: Jefferson 10.5%, Denver 82.8%, and Arapahoe 6.7%.
--Denver was the county with the largest number of votes.
--Votes per candidate: Charles Casper Stockham 23%, Diana DeGette 73.8%, and Raymon Anthony Diane 3.1%.
--Diane DeGette won the election with 272,892 votes, a 73.8% of total votes cast. 
+- 369,711 votes were cast in this congressional election.
+- Breakdown of votes per county: Jefferson 10.5%, Denver 82.8%, and Arapahoe 6.7%.
+- Denver was the county with the largest number of votes.
+- Votes per candidate: Charles Casper Stockham 23%, Diana DeGette 73.8%, and Raymon Anthony Diane 3.1%.
+- Diane DeGette won the election with 272,892 votes, a 73.8% of total votes cast. 
 
 ![](Resources/election_image.png)
 
